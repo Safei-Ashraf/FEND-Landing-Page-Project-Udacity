@@ -17,7 +17,7 @@ This is a simple landing page demo, shows the behaviour of a standard Responsive
 -HTML,CSS and JavaScript.
 
 ## How To View Demo:
--Live version : ![Click Here](https://safei-ashraf.github.io/FEND-Landing-Page-Project-Udacity/)
+-### Live version : [Click Here](https://safei-ashraf.github.io/FEND-Landing-Page-Project-Udacity/)
 -Open project folder.
 -double click the file named "index.html"
 -project will open in a new window in your default browser.
