@@ -18,11 +18,25 @@ This is a simple landing page demo, shows the behaviour of a standard Responsive
 
 ## How To View Demo:
 ### Live version : [Click Here](https://safei-ashraf.github.io/FEND-Landing-Page-Project-Udacity/)
+
+
+### Locally:
+
 -Open project folder.
+
+
 -double click the file named "index.html"
+
+
 -project will open in a new window in your default browser.
+
+
 -You can scroll to different section by yourself, or you can choose it from navigation menu.
+
+
 -section being viewed currently will be highlighted.
+
+
 -the website is responisve so it works across different devices. (mobile, tablet and desktop)
 
 ## How To Run Project in Dev Environment:
