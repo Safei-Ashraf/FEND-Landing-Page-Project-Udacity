@@ -5,10 +5,20 @@ This is a simple landing page demo, shows the behaviour of a standard Responsive
 ## Table of Contents
 
 > Tools Used.
+
+
 > Project Structure Explaination.
+
+
 > How To View Demo.
+
+
 > How To Run Project in Dev Environment.
+
+
 > Credits.
+
+
 
 ## Tools Used:
 
