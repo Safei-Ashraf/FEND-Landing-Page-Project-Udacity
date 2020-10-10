@@ -12,9 +12,16 @@ This is a simple landing page demo, shows the behaviour of a standard Responsive
 
 ## Tools Used:
 
+
 -Code Editor (VsCode).
+
+
 -Vs Extension: Live Server. (to view changes dynamically through development process)
+
+
 -HTML,CSS and JavaScript.
+
+
 
 ## How To View Demo:
 ### Live version : [Click Here](https://safei-ashraf.github.io/FEND-Landing-Page-Project-Udacity/)
